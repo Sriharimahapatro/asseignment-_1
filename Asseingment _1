@@ -1,0 +1,22 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print(a+b)
+    print(a-b)
+    print(a*b)
+Output:
+Input (stdin)
+
+Download
+4
+5
+Your Output (stdout)
+9
+-1
+20
+Expected Output
+
+Download
+9
+-1
+20
